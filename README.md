@@ -13,6 +13,8 @@ TaskMaster Pro is a dynamic and modern task management application built with Dj
 - **Responsive Design:** Fully responsive layout that looks great on mobile, tablet, and desktop.
 - **Modern UI:** Clean, utility-first styling with Tailwind CSS and subtle animations.
 
+![alt text](image.png)
+
 ## Technologies Used
 
 - **Backend:** Django, SQLite (or your preferred database)
